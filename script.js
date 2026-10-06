@@ -113,7 +113,7 @@ const questionBank = [
         question:
             "Enumerate the three advantages of OOP named in this unit.",
         answers: [
-            "reusability, maintainability, scalability"
+            "reusability, modularity, maintainability"
         ]
     },
 
@@ -185,7 +185,7 @@ const questionBank = [
         question:
             "Enumerate the three practical guarantees object-oriented programming provides.",
         answers: [
-            "one rule, one place, nobody can reach in, new kinds cost nothing"
+            "one rule in one place, nobody can reach in, new kinds cost nothing"
         ]
     },    
 
